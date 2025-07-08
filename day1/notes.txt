@@ -1,0 +1,18 @@
+Qu'est-ce que React ?
+React est une bibliothèque JavaScript front-end.
+
+React a été développé par l'ingénieur logiciel de Facebook Jordan Walke.
+
+React est également connu sous le nom de React.js ou ReactJS.
+
+React est un outil permettant de créer des composants d'interface utilisateur.
+
+React crée un DOM VIRTUEL en mémoire.
+Au lieu de manipuler directement le DOM du navigateur, React crée un DOM virtuel en mémoire, où il effectue toutes les manipulations nécessaires, avant d'effectuer les modifications dans le DOM du navigateur\
+
+React ne change que ce qui doit être changé
+React détecte les modifications qui ont été apportées et modifie uniquement ce qui doit être modifié.
+
+Vous apprendrez les différents aspects de la façon dont React fait cela dans le reste de ce tutoriel. 
+
+Pour utiliser React en production, vous avez besoin de npm qui est inclus avec Node.js.
